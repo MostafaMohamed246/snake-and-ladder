@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\My-Github\snake-and-ladder\snake and ladder\snake and ladder 1\Source.cpp(86,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\My-Github\snake-and-ladder\snake and ladder\snake and ladder 1\Source.cpp(365,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\My-Github\snake-and-ladder\snake and ladder\snake and ladder 1\Source.cpp(468,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake and ladder 1.vcxproj -> D:\My-Github\snake-and-ladder\snake and ladder\Debug\snake and ladder 1.exe
